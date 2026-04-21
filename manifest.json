@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "CK-NewTab",
+  "version": "1.0.0",
+  "description": "极简自定义新标签页，个性化设置跳转网址。",
+  "author": "CK",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
