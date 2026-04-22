@@ -1,14 +1,23 @@
-![CK-NewTab Logo](https://raw.githubusercontent.com/CK0714/CK-NewTab/main/icons/icon128.png)
+<div align="center">
+  
+![CK-NewTab Logo](https://raw.githubusercontent.com/CK0714/CK-NewTab/refs/heads/main/public/logo.png)
+
 # CK-NewTab
 ![CK-ChromeVersion](https://img.shields.io/badge/Chrome-Manifest_V3-blue?style=flat-square)
 ![CK-Permissions](https://img.shields.io/badge/权限-零权限-green?style=flat-square)
 ![CK-License](https://img.shields.io/github/license/CK0714/CK-NewTab?style=flat-square)
+[![version](https://img.shields.io/github/v/tag/CK0714/CK-NewTab?label=version&style=flat&color=orange)](https://github.com/CK0714/CK-NewTab/releases)
+[![HTML](https://img.shields.io/badge/HTML-57.5%25-E34F26?style=flat)](https://html.spec.whatwg.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-42.5%25-F7DF1E?style=flat)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+[![downloads](https://img.shields.io/github/downloads/CK0714/CK-NewTab/total?style=flat&color=green)](https://github.com/CK0714/CK-NewTab/releases)
 
-**极简 | 纯净 | 零权限 | 符合 Chrome Manifes V3 规范**
+**极简 | 纯粹 | 零权限 | 单一功能**
 
-自定义新标签页的指定地址跳转，只此一项功能。
+自定义新标签页的指定地址跳转
 
-![CK-NewTab 插件封面](https://raw.githubusercontent.com/CK0714/CK-NewTab/refs/heads/main/public/banner1.png)
+</div>
+
+![CK-NewTab 插件封面](https://raw.githubusercontent.com/CK0714/CK-NewTab/refs/heads/main/public/banner.png)
 
 ## 📖 项目简介
 CK-NewTab 是一款轻量化、无广告、纯本地运行的 Chrome 浏览器扩展，核心作用是将浏览器默认新标签页自定义跳转到任意网址、内网服务器IP。
@@ -83,6 +92,5 @@ CK-NewTab为独立开发的浏览器扩展，**与 Google LLC 无任何关联、
 ## 🌟 支持这个项目
 如果觉得这个项目对你有帮助，请为它点亮一颗 **⭐️**，非常感谢。
 
-### 星星数
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CK0714/CK-NewTab&type=Date)](https://www.star-history.com/#CK0714/CK-NewTab&Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=CK0714/CK-NewTab&type=date&legend=top-left)](https://www.star-history.com/?type=date&repos=CK0714%2FCK-NewTab)
