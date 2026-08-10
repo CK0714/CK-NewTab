@@ -83,5 +83,12 @@ CK-NewTab 为独立开发的浏览器扩展，**与 Google LLC 无任何关联�
 ## 🌟 支持这个项目
 如果觉得这个项目对你有帮助，请为它点亮一颗 **⭐️**，非常感谢。
 
+## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=CK0714/CK-NewTab&type=date&legend=top-left)](https://www.star-history.com/?type=date&repos=CK0714%2FCK-NewTab)
+<a href="https://www.star-history.com/?repos=CK-NewTab%2FCK-NewTab&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=CK-NewTab/CK-NewTab&type=date&theme=dark&legend=top-left&sealed_token=FYtJcPOqjW7NkZlWYEUUfnwgkKuG0yJbhYhHBmspmALGrygOypYph6sNJiTHDgyJYvyJGeVM1YXbxkqqFUsjZ6NkoIwrV151QGiGfy2J0SRsFS2HCb50kcaFlLieUOX_Oa34rU4WmUBarwkXDDtVLhb3n7QAQOaWWzNr32pRwGUMdaawUfIUaX5l0bVH" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=CK-NewTab/CK-NewTab&type=date&legend=top-left&sealed_token=FYtJcPOqjW7NkZlWYEUUfnwgkKuG0yJbhYhHBmspmALGrygOypYph6sNJiTHDgyJYvyJGeVM1YXbxkqqFUsjZ6NkoIwrV151QGiGfy2J0SRsFS2HCb50kcaFlLieUOX_Oa34rU4WmUBarwkXDDtVLhb3n7QAQOaWWzNr32pRwGUMdaawUfIUaX5l0bVH" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=CK-NewTab/CK-NewTab&type=date&legend=top-left&sealed_token=FYtJcPOqjW7NkZlWYEUUfnwgkKuG0yJbhYhHBmspmALGrygOypYph6sNJiTHDgyJYvyJGeVM1YXbxkqqFUsjZ6NkoIwrV151QGiGfy2J0SRsFS2HCb50kcaFlLieUOX_Oa34rU4WmUBarwkXDDtVLhb3n7QAQOaWWzNr32pRwGUMdaawUfIUaX5l0bVH" />
+ </picture>
+</a>
